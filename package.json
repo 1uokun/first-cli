@@ -1,6 +1,6 @@
 {
   "name": "first-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "创建你的第一个命令行工具",
   "bin": {
     "my-first-cli": "./bin/my-first-cli.js"
