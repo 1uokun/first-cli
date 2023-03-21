@@ -1,0 +1,23 @@
+{
+  "name": "first-cli",
+  "version": "1.0.0",
+  "description": "创建你的第一个命令行工具",
+  "bin": {
+    "my-first-cli": "./bin/my-first-cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^10.0.0",
+    "conventional-changelog": "^3.1.25",
+    "conventional-changelog-cli": "^2.2.2"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.1",
+    "eslint": "^8.13.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
